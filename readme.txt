@@ -36,13 +36,14 @@
 
 <h3>Installation</h3>
 <p>Clone the repository and navigate to the project folder:</p>
-<pre><code>git clone https://github.com/yourusername/LipReadingAI.git
+<pre><code>git clone https://github.com/yourusername/LipReadingAI.git</code></pre>
 
 
 <h2>Usage</h2>
 <p>Run the Jupyter Notebook to process videos and train the model:</p>
 <pre><code>jupyter notebook</code></pre>
 <p>Follow the steps inside <code>LipReader.ipynb</code> or <code>LipRed final.ipynb</code> to preprocess videos and train the model.</p>
+
 
 <h2>Model Architecture</h2>
 <ul>
@@ -56,6 +57,7 @@
     <li><a href="https://keras.io/examples/audio/ctc_asr/#load-the-ljspeech-dataset">Keras CTC ASR Example</a></li>
     <li><a href="https://arxiv.org/pdf/1611.01599">Deep Speech Paper (Baidu, 2016)</a></li>
 </ul>
+
 
 <h2>Acknowledgments</h2>
 <p>Special thanks to the contributors and researchers in ASR and deep learning.</p>
