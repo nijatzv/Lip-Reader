@@ -20,7 +20,7 @@
 
 <h3>Installation</h3>
 <p>Clone the repository and navigate to the project folder:</p>
-<pre><code>git clone https://github.com/yourusername/LipReadingAI.git
+<pre><code>git clone https://github.com/yourusername/LipReadingAI.git</code></pre>
 
 
 <h3>Usage</h3>
@@ -49,8 +49,6 @@
 
 <hr>
 <p>For any issues or contributions, feel free to open a pull request or create an issue in this repository.</p>
-
--
 
 
 
