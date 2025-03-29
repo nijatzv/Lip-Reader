@@ -42,14 +42,6 @@
     <li><a href="https://keras.io/examples/audio/ctc_asr/#model">Automatic Speech Recognition CTC</a></li>
 </ul>
 
-<h2>Acknowledgments</h2>
-<p>Special thanks to the contributors and researchers in ASR and deep learning.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
-
-<hr>
-<p>For any issues or contributions, feel free to open a pull request or create an issue in this repository.</p>
 
 
 
