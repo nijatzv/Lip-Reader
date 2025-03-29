@@ -1,7 +1,23 @@
--Lip Reading AI
+<h1>Lip Reading AI</h1>
 
--Lip Reading AI is a deep learning-based Automatic Speech Recognition (ASR) system that translates lip movements into text. It utilizes TensorFlow and the Connectionist Temporal Classification (CTC) loss function to recognize spoken words without audio.
+<p>Lip Reading AI is a deep learning-based Automatic Speech Recognition (ASR) system that translates lip movements into text. It utilizes TensorFlow and the Connectionist Temporal Classification (CTC) loss function to recognize spoken words without audio.</p>
 
+
+<h2>Features</h2>
+<ul>
+    <li>Converts silent video input into text using deep learning.</li>
+    <li>Uses TensorFlow for model training.</li>
+    <li>Implements CTC loss for alignment-free sequence prediction.</li>
+    <li>Leverages OpenCV for video preprocessing.</li>
+    <li>Supports GPU acceleration.</li>
+</ul>
+
+
+<h2>Getting Started</h2>
+
+<h3>Prerequisites</h3>
+<p>Ensure you have the following dependencies installed:</p>
+<pre><code>pip install opencv-python matplotlib imageio gdown tensorflow</code></pre>
 
 <h2>Features</h2>
 <ul>
@@ -20,10 +36,10 @@
 
 <h3>Installation</h3>
 <p>Clone the repository and navigate to the project folder:</p>
-<pre><code>git clone https://github.com/yourusername/LipReadingAI.git</code></pre>
+<pre><code>git clone https://github.com/yourusername/LipReadingAI.git
 
 
-<h3>Usage</h3>
+<h2>Usage</h2>
 <p>Run the Jupyter Notebook to process videos and train the model:</p>
 <pre><code>jupyter notebook</code></pre>
 <p>Follow the steps inside <code>LipReader.ipynb</code> or <code>LipRed final.ipynb</code> to preprocess videos and train the model.</p>
@@ -49,8 +65,6 @@
 
 <hr>
 <p>For any issues or contributions, feel free to open a pull request or create an issue in this repository.</p>
-
--
 
 
 
