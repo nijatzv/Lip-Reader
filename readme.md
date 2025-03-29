@@ -1,6 +1,6 @@
--Lip Reading AI
+<h1>Lip Reading AI</h1>
 
--Lip Reading AI is a deep learning-based Automatic Speech Recognition (ASR) system that translates lip movements into text. It utilizes TensorFlow and the Connectionist Temporal Classification (CTC) loss function to recognize spoken words without audio.
+<h2>Lip Reading AI is a deep learning-based Automatic Speech Recognition (ASR) system that translates lip movements into text. It utilizes TensorFlow and the Connectionist Temporal Classification (CTC) loss function to recognize spoken words without audio.</h2>
 
 
 <h2>Features</h2>
@@ -39,6 +39,7 @@
 <ul>
     <li><a href="https://keras.io/examples/audio/ctc_asr/#load-the-ljspeech-dataset">Keras CTC ASR Example</a></li>
     <li><a href="https://arxiv.org/pdf/1611.01599">Deep Speech Paper (Baidu, 2016)</a></li>
+    <li><a href="https://keras.io/examples/audio/ctc_asr/#model">Automatic Speech Recognition CTC</a></li>
 </ul>
 
 <h2>Acknowledgments</h2>
